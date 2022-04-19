@@ -1,0 +1,42 @@
+/* COMMON */
+
+header {
+    width: 100%;
+}
+
+
+
+
+/* TYPO */
+
+
+
+
+
+/* HEADER */
+
+.banner-nero {
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    background-color: black;
+    height: 40px;
+}
+
+
+.logo-sony {
+    height: 25px;
+    right: 0;
+    
+}
+
+
+
+
+/* MAIN */
+
+
+
+
+
+/* FOOTER */
