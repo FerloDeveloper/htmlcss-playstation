@@ -9,7 +9,13 @@ header {
     color: black;
 }
 
+.background-white {
+    background-color: white;
+}
 
+a > p {
+    display: inline;
+}
 
 /* TYPO */
 
@@ -21,6 +27,7 @@ header {
 
 .banner-nero {
     position: fixed;
+    top: 0;
     z-index: 69;
     display: flex;
     flex-direction: row-reverse;
@@ -33,7 +40,7 @@ header {
 .banner-bianco-link {
     position: fixed;
     z-index: 69;
-    margin-top: 35px;
+    top: 35px;
     width: 100%;
 }
 
@@ -54,6 +61,12 @@ header {
 }
 
 /* MAIN */
+
+.sfondo-hero {
+    background-image: url(../img/jumbo-bg.png);
+    min-height: 500px;
+    margin-top: 101px;
+
 
 
 
