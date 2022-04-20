@@ -1,12 +1,16 @@
+
 /* COMMON */
 
 header {
     width: 100%;
 }
 
-
 .black {
     color: black;
+}
+
+.white {
+    color: white;
 }
 
 .background-white {
@@ -18,7 +22,6 @@ a > p {
 }
 
 /* TYPO */
-
 
 
 
@@ -60,14 +63,22 @@ a > p {
     margin: 0px 20px;
 }
 
+.padding-hero {
+    padding-top: 330px;
+}
+
 /* MAIN */
 
 .sfondo-hero {
     background-image: url(../img/jumbo-bg.png);
-    min-height: 500px;
+    background-position: center;
+    min-height: 650px;
     margin-top: 101px;
+}
 
-
+.bannerino-returnal {
+    height: 50px;
+}
 
 
 
