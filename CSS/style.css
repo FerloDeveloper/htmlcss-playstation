@@ -1,6 +1,10 @@
 
 /* COMMON */
 
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
 header {
     width: 100%;
 }
@@ -13,12 +17,21 @@ header {
     color: white;
 }
 
+.blu-playstation {
+    color: #0273ce;
+}
+
 .background-white {
     background-color: white;
 }
 
 a > p {
     display: inline;
+}
+
+.flex {
+    display: flex;
+    align-items: center;
 }
 
 /* TYPO */
@@ -93,10 +106,23 @@ a > p {
     background-color: #cd3d0f;
 }
 
+.btn-blu {
+    background-color: #0273ce;;
+}
+
 .img-col-sotto-hero{
-    margin-top: 30px;
+    margin-top: 40px;
     width: 100%;
     border-radius: 8px;
+}
+
+.scritte-ps5 {
+    text-align: center;
+    margin-top: 40px;
+}
+
+.scritte-ps5 > h2 {
+    font-size: 50px;
 }
 
 
