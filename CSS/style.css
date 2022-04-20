@@ -50,6 +50,10 @@ a > p {
     margin-top: 10px;
 }
 
+.padding-bottom-nuove-uscite {
+    padding-bottom: 40px;
+}
+
 /* TYPO */
 
 .scritte-ps5 > h2 {
@@ -121,7 +125,7 @@ a > p {
 }
 
 .p-hero {
-    margin: 30px 0px;
+    margin: 30px 0px 20px 0px;
 }
 
 .btn-rosso {
@@ -154,7 +158,7 @@ a > p {
     background-position: center;
     background-repeat: no-repeat;
     margin-top: 50px;
-    min-height: 850px;
+    min-height: 920px;
 }
 
 .bannerino-takes-two {
@@ -167,7 +171,7 @@ a > p {
 }
 
 .background-grey > h3 {
-    padding: 30px 30px;
+    padding: 30px 0px 20px 30px;
 }
 
 .background-grey > p {
