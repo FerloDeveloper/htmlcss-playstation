@@ -25,6 +25,10 @@ header {
     background-color: white;
 }
 
+.background-grey {
+    background-color: #1f1f1f;
+}
+
 a > p {
     display: inline;
 }
@@ -40,6 +44,10 @@ a > p {
 
 .justify-content-center {
     justify-content: center;
+}
+
+.margin-top-nuove-uscite {
+    margin-top: 10px;
 }
 
 /* TYPO */
@@ -100,6 +108,7 @@ a > p {
     background-position: center;
     min-height: 650px;
     margin-top: 101px;
+    background-repeat: no-repeat;
 }
 
 .bannerino-returnal {
@@ -150,6 +159,14 @@ a > p {
 
 .padding-takes-two {
     padding-top: 80px;
+}
+
+.background-grey > h3 {
+    padding: 30px 30px;
+}
+
+.background-grey > p {
+    padding: 0px 30px;
 }
 
 /* FOOTER */
