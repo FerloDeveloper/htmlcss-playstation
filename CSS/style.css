@@ -44,7 +44,13 @@ a > p {
 
 /* TYPO */
 
+.scritte-ps5 > h2 {
+    font-size: 50px;
+}
 
+.quaranta-px {
+    font-size: 40px;
+}
 
 
 /* HEADER */
@@ -128,10 +134,22 @@ a > p {
     margin-top: 40px;
 }
 
-.scritte-ps5 > h2 {
-    font-size: 50px;
+
+.sfondo-takes-two {
+    background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-top: 50px;
+    min-height: 850px;
 }
 
+.bannerino-takes-two {
+    height: 300px;
+    margin-bottom: 60px;
+}
 
+.padding-takes-two {
+    padding-top: 80px;
+}
 
 /* FOOTER */
