@@ -21,6 +21,10 @@ header {
     color: #3469e6;
 }
 
+.blu-scuro {
+    color: #161c3b;
+}
+
 .blu-playstation {
     color: #0273ce;
 }
@@ -36,6 +40,10 @@ header {
 .bakground-grey-chiaro {
     background-color: #bebcbb;
     min-height: 300px;
+}
+
+.background-blu-scuro {
+    background-color: #161c3b;
 }
 
 a > p {
@@ -73,6 +81,10 @@ a > p {
 
 .padding-bottom-plus {
     padding-bottom: 30px;
+}
+
+.margin-top-social {
+    margin-top: 50px;
 }
 
 /* TYPO */
@@ -167,6 +179,13 @@ a > p {
     border-radius: 8px;
 }
 
+.img-col-sconti {
+    margin-top: 40px;
+    width: 100%;
+    margin-bottom: 100px;
+}
+
+
 .scritte-ps5 {
     text-align: center;
     margin-top: 40px;
@@ -177,6 +196,10 @@ a > p {
     padding-top: 40px;
 }
 
+.scritte-sconto {
+    text-align: center;
+    padding-top: 50px;
+}
 
 .sfondo-takes-two {
     background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
