@@ -9,6 +9,10 @@ header {
     width: 100%;
 }
 
+footer {
+    min-height: 500px;
+}
+
 .black {
     color: black;
 }
@@ -27,6 +31,10 @@ header {
 
 .blu-playstation {
     color: #0273ce;
+}
+
+.blu-footer {
+    background-color: #00439c;
 }
 
 .background-white {
@@ -50,9 +58,17 @@ a > p {
     display: inline;
 }
 
-.flex {
+.flex-center {
     display: flex;
     align-items: center;
+}
+
+.flex {
+    display: flex;
+}
+
+.flex-column {
+    flex-direction: column;
 }
 
 .flex-wrap {
@@ -86,6 +102,12 @@ a > p {
 .margin-top-social {
     margin-top: 50px;
 }
+
+.padding-bottom-p-footer {
+    padding-bottom: 80px;
+}
+
+
 
 /* TYPO */
 
@@ -236,3 +258,29 @@ a > p {
 }
 
 /* FOOTER */
+
+.logo-ps-footer {
+    height: 100px;
+    margin-bottom: 55px;
+    margin-top: 40px;
+}
+
+.logo-mondo-footer {
+    
+    height: 20px;
+}
+
+.link-footer {
+    color: white;
+    text-decoration: none;
+}
+
+.country {
+    margin-bottom: 40px;
+}
+
+.sie-logo {
+    height: 70px;
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
