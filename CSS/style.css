@@ -164,10 +164,10 @@ a > p {
 
 .sfondo-hero {
     background-image: url(../img/jumbo-bg.png);
-    background-position: center;
     min-height: 650px;
     margin-top: 101px;
-    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
 }
 
 .bannerino-returnal {
