@@ -115,6 +115,10 @@ a > p {
     margin-top: 20px;
 }
 
+.margin-top-10 {
+    margin-top: 10px;
+}
+
 .margin-bottom-6 {
     margin-bottom: 6px;
     display: inline-block;
