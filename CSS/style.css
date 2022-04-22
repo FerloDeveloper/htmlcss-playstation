@@ -185,7 +185,6 @@ a > p {
     border-radius: 30px;
 }
 
-
 /* MAIN */
 
 .sfondo-hero {
@@ -232,7 +231,6 @@ a > p {
     width: 100%;
     margin-bottom: 100px;
 }
-
 
 .scritte-ps5 {
     text-align: center;
@@ -309,4 +307,17 @@ a > p {
     height: 70px;
     margin-bottom: 40px;
     margin-top: 40px;
+}
+
+/* ANIMAZIONI */
+
+.animazione-btn-nero.animazione-btn-hover:hover {
+    outline: 2px solid #363636;
+    outline-offset: 2px;
+    color: white;
+}
+
+.animazione-btn-bianco.animazione-btn-hover:hover {
+    outline: 2px solid #fff;
+    outline-offset: 2px;
 }
