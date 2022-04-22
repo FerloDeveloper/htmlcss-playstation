@@ -285,7 +285,7 @@ a > p {
 
 .logo-ps-footer {
     height: 100px;
-    margin-bottom: 55px;
+    margin-bottom: 30px;
     margin-top: 70px;
 }
 
@@ -342,3 +342,12 @@ a > p {
     border-bottom: 2px solid transparent;
 }
 
+.sollevamento-img:hover {
+    transform: translateY(-10%);
+    border: 3px solid #0273ce;
+}
+
+.bordo-img {
+    border: 2px solid transparent;
+    padding: 3px;
+}
