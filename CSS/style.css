@@ -88,7 +88,7 @@ a > p {
 }
 
 .padding-bottom-nuove-uscite {
-    padding-bottom: 40px;
+    padding-bottom: 60px;
 }
 
 .margin-bottom-ps4 {
@@ -100,25 +100,51 @@ a > p {
 }
 
 .margin-top-social {
-    margin-top: 50px;
+    margin-top: 70px;
 }
 
 .padding-bottom-p-footer {
     padding-bottom: 80px;
 }
 
+.margin-top-30 {
+    margin-top: 30px;
+}
 
+.margin-top-20 {
+    margin-top: 20px;
+}
+
+.margin-bottom-6 {
+    margin-bottom: 6px;
+    display: inline-block;
+}
+
+.padding-top-negative {
+    margin-top: -20px;
+}
 
 /* TYPO */
+
+.h2-medio {
+    font-size: 50px;
+}
 
 .scritte-ps5 > h2 {
     font-size: 50px;
 }
 
-.quaranta-px {
-    font-size: 40px;
+.quarantadue-px {
+    font-size: 42px;
 }
 
+.p-medio {
+    font-size: 20px;
+}
+
+.p-grande {
+    font-size: 45px;
+}
 
 /* HEADER */
 
@@ -172,7 +198,7 @@ a > p {
 
 .bannerino-returnal {
     height: 50px;
-    margin-bottom: 16px;
+    margin-bottom: 20px;
 }
 
 .padding-hero {
@@ -180,7 +206,7 @@ a > p {
 }
 
 .p-hero {
-    margin: 30px 0px 20px 0px;
+    margin: 30px 0px 30px 0px;
 }
 
 .btn-rosso {
@@ -202,7 +228,7 @@ a > p {
 }
 
 .img-col-sconti {
-    margin-top: 40px;
+    margin-top: 60px;
     width: 100%;
     margin-bottom: 100px;
 }
@@ -210,7 +236,7 @@ a > p {
 
 .scritte-ps5 {
     text-align: center;
-    margin-top: 40px;
+    margin-top: 90px;
 }
 
 .scritte-ps4 {
@@ -262,7 +288,7 @@ a > p {
 .logo-ps-footer {
     height: 100px;
     margin-bottom: 55px;
-    margin-top: 40px;
+    margin-top: 70px;
 }
 
 .logo-mondo-footer {
